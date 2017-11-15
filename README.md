@@ -1,7 +1,9 @@
 # PDFSync
 
 ## Prawn -> gulp -> browserSync -> PDF.js
-Tired of manually having to generate Prawn documents and then open them to check that it's rendering? Yeah me too!
+Tired of manually having to generate Prawn documents and then open them to check that it's rendering correctly?
+
+Yeah me too!
 
 ## Getting Started
 
