@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Adam Groves",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
