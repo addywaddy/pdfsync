@@ -15,4 +15,4 @@ Yeah me too!
 
 Now edit the `prawn/my_pdf.rb` file and the browser will update to show your changes.
 
-I happen to like Prawn for generating PDFs. If that's not your bag, change the render task and watcher to suite your needs.
+I happen to like Prawn for generating PDFs. If that's not your bag, change the render task and watcher to suit your needs.
